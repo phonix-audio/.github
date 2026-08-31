@@ -1,3 +1,5 @@
+<img src="logo.svg" width="96" align="right" alt="">
+
 # Phonix Audio
 
 Instruments built from the physics and the literature, each one a VST3 and CLAP
@@ -20,10 +22,12 @@ than a picture.
 
 ## The sequencer
 
-[**aethon**](../../aethon) hosts every plugin here, plus the ones that live
+[**phonix**](../../phonix) hosts every plugin here, plus the ones that live
 inside it. Tracks, patterns, a clip launcher, an arrangement, a mixer with
 group buses and sends, and a modulation matrix that reaches any parameter of
 any track.
+
+![The arrangement, with the automation lane and the generative panel](sequencer.png)
 
 ## The instruments
 
@@ -39,6 +43,8 @@ rather than settings inside it.
 | [guitar](../../guitar) | electric guitar, with its amplifier and cabinet |
 | [bass](../../bass) | electric bass, with slap, pick and distortion |
 | [orgue](../../orgue) | a tonewheel drawbar organ, nine additive partials a voice, through a Leslie |
+
+![Cordis: the piano seen from above, its microphones on the soundboard](cordis.png)
 
 **Emulations.** Machines whose character is their own signal path.
 
