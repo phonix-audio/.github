@@ -5,10 +5,6 @@
 Instruments built from the physics and the literature: VST3 and CLAP plugins,
 and a sequencer that hosts them.
 
-**The instrument is the interface.** An editor is a drawing of the object it
-models, and its parts are the controls. Every forward map has its inverse,
-round-trip tested: that is what makes a drawn shape a control and not a picture.
-
 The string, the bore and the plate are simulated, so decay, unison beating and
 resonance follow from that chain rather than from settings. Physical models,
 emulations, synthesizers, drums and voice, and a sequencer with an arrangement,
