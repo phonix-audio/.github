@@ -9,5 +9,3 @@ The string, the bore and the plate are simulated, so decay, unison beating and
 resonance follow from that chain rather than from settings. Physical models,
 emulations, synthesizers, drums and voice, and a sequencer with an arrangement,
 a mixer and a modulation matrix that reaches any parameter of any track.
-
-Nothing is released yet.
