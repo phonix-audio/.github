@@ -10,18 +10,19 @@ resonance follow from that chain rather than from settings. Each instrument
 names the published work it implements, paper by paper, and measures itself
 against recordings; what does not yet match is written down beside the code.
 
-## Cordis
+## Phonix Piano
 
 A grand piano built from the physics, not from samples: modal strings under a
 computed hammer contact, unisons coupled through the bridge, the soundboard in
 the loop. The editor is the instrument seen from above; the microphones are
 where the model listens to the plate.
 
-![The Cordis editor](cordis.png)
+![The Phonix Piano editor](piano.png)
 
-[Source, measurements and limitations](https://github.com/phonix-audio/cordis)
-and [Linux and Windows builds](https://github.com/phonix-audio/cordis/releases),
-VST3 and CLAP, MIT or Apache-2.0.
+[Source, measurements and limitations](https://github.com/phonix-audio/piano)
+and [nightly Linux and Windows builds](https://github.com/phonix-audio/piano/releases),
+VST3 and CLAP, MIT or Apache-2.0. Nothing is versioned yet: the nightly is the
+head of main, built.
 
 ## Coming
 
