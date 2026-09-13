@@ -24,6 +24,21 @@ and [nightly Linux and Windows builds](https://github.com/phonix-audio/piano/rel
 VST3 and CLAP, MIT or Apache-2.0. Nothing is versioned yet: the nightly is the
 head of main, built.
 
+## Archet
+
+A bowed string built from the physics, not from samples: violin, viola, cello
+and double bass, a modal string under a bow or a finger, bodies of measured
+modes, arco and pizzicato, solo or as a section. The editor is the bow on the
+string, the body and the player, with the effects the patch carries behind a
+switch.
+
+![The Archet editor](archet.png)
+
+[Source, measurements and limitations](https://github.com/phonix-audio/archet)
+and [nightly Linux and Windows builds](https://github.com/phonix-audio/archet/releases),
+VST3 and CLAP, MIT or Apache-2.0. Nothing is versioned yet: the nightly is the
+head of main, built.
+
 ## Coming
 
 Physical models, emulations of instruments that exist, synthesizers, drums and
