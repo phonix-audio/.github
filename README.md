@@ -39,6 +39,22 @@ and [nightly Linux and Windows builds](https://github.com/phonix-audio/archet/re
 VST3 and CLAP, MIT or Apache-2.0. Nothing is versioned yet: the nightly is the
 head of main, built.
 
+## Guitar
+
+An electric guitar built from a model, not from samples: an extended
+Karplus-Strong string under a pick, a tube amplifier in cascaded stages
+with seven voicings from clean to modern high gain, and procedural
+speaker cabinets. Two hundred and fifty-six presets, and every control a
+host parameter; the editor is the string, the pickup and the amplifier,
+with the effects the patch carries behind a switch.
+
+![The Guitar editor](profile/guitar.png)
+
+[Source, measurements and limitations](https://github.com/phonix-audio/guitar)
+and [nightly Linux and Windows builds](https://github.com/phonix-audio/guitar/releases),
+VST3 and CLAP, MIT or Apache-2.0. Nothing is versioned yet: the nightly is the
+head of main, built.
+
 ## Coming
 
 Physical models, emulations of instruments that exist, synthesizers, drums and
